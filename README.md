@@ -48,6 +48,7 @@ Utilizadas ferramentas como [Express](https://github.com/expressjs/express), [Le
 7. Instale o aplicativo Expo no seu celular e escaneie o QRCode para ter acesso à aplicação mobile
 
 ## Telas
-
 ### Aplicação Web
+<img src="https://i.imgur.com/6N4gOnk.png" width="400" height="217"> <img src="https://i.imgur.com/wBuBKOO.png" width="400" height="217"> <img src="https://i.imgur.com/xyqenI1.png" width="400" height="217"> <img src="https://i.imgur.com/dtfjFC0.png" width="400" height="217">
 ### Aplicação Mobile
+<img src="https://i.imgur.com/ALTsnwS.jpg" width="189" height="400"> <img src="https://i.imgur.com/wbZAahR.jpg" width="189" height="400"> <img src="https://i.imgur.com/Nu8YlhF.jpg" width="189" height="400">
